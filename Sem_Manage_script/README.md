@@ -1,5 +1,5 @@
 # Semester Folder/Directory Managemnent
 
-A python script to create a SEM and SUBJECT folder that has NOTES subfolder.
+A Python script for generating a SEM and SUBJECT folder with a NOTES subfolder.
 
-sem and subject name folder may differ base on user input.
+The sem and subject name folders may differ based on user input.
