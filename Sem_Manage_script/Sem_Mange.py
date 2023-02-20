@@ -2,6 +2,8 @@ from functools import partial
 import os
 
 # main directory
+# change the current_dir to your designated directory/folder path to create the folders
+# current_dir = "<your_folder_path>"
 current_dir = "C:\\Users\\cvanj\\Desktop\\CPEtest\\"
 # list of subdirectories to be created
 Folders = ['Prelims/Notes', 'Midterms/Notes', 'Finals/Notes']
